@@ -6,7 +6,7 @@
 
 #### 📫 REQUISITOS:
 
-Desenvolver um EJB para:
+Desenvolver um EJB para (Jogo Somar):
 
 - Permitir o usuário informar seu nome.
 - Apresentar 2 números aleatórios inteiros e solicitar que o usuário informe o resultado da soma destes números.
